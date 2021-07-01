@@ -1,0 +1,14 @@
+{
+  "name": "Inventory Before Hotbar",
+  "author": "dcsobral",
+  "description": "Moves items preferentially to the inventory over the hotbar.",
+  "version": "1.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/inventory-before-hotbar/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
